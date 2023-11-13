@@ -1,5 +1,5 @@
 ---
-name: MW Database
+title: MW Database
 categories: database
 ---
 MySQL yummmm

@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Common JS
+title: Common JS
 categories: mediawiki
 ---
 FUN FUN FUN
