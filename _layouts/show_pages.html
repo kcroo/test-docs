@@ -10,7 +10,7 @@ layout: page
         {% for page in pages %}
             {% assign cat = page.categories %}
             {% if cat == category %}
-                <li>{{ page.title }}</li>
+                <li><a href="{{page.url}}">{{ page.title }}</a></li>
             {% endif %}
             {{% endif %}}
         {% endfor %}
